@@ -175,6 +175,18 @@ Designed interface concepts for:
 - System monitoring  
 - Reporting  
 
+<p align="center">
+  <img src="assets/admin/admin1.png" width="30%" />
+  <img src="assets/admin/admin2.png" width="30%" />
+  <img src="assets/admin/admin3.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="assets/admin/admin4.png" width="30%" />
+  <img src="assets/admin/admin5.png" width="30%" />
+  <img src="assets/admin/admin6.png" width="30%" />
+</p>
+
 ---
 
 ## 📈 Business Impact
