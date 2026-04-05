@@ -138,7 +138,9 @@ Designed interface concepts for:
 ### Customer Application:
 - Transaction tracking  
 - Donation history  
-- Charity selection  
+- Charity selection
+
+![Customer1](assets/customer/customer1.png)
 
 ### Merchant Platform:
 - Invoice upload  
