@@ -158,8 +158,9 @@ Designed interface concepts for:
 - Invoice upload  
 - Payment tracking
 
+![Customer1](assets/merchant/merchant1.png)
+
 <p align="center">
-  <img src="assets/merchant/merchant1.png" width="30%" />
   <img src="assets/merchant/merchant2.png" width="30%" />
   <img src="assets/merchant/merchant3.png" width="30%" />
 </p>
