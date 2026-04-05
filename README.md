@@ -214,23 +214,39 @@ DGR-System-Analysis-and-Design/
 │
 ├── README.md
 │
-├── diagrams/
-│   ├── context-diagram.png
-│   ├── use-case-diagram.png
-│   ├── erd.png
-│   ├── payment-dfd.png
-│   ├── invoice-dfd.png
-│   ├── donation-dfd.png
+├── assets/
+│   ├── context-diagram.jpg
+│   ├── use-case-diagram.jpg
+│   ├── erd.jpg
+│   ├── payment-dfd.jpg
+│   ├── invoice-dfd.jpg
+│   ├── donation-dfd.jpg
+│   ├── customer/
+│       ├── customer1.png
+│       ├── customer2.png
+│       ├── customer3.png
+│       ├── customer4.png
+│       ├── customer5.png
+│       ├── customer6.png
+│       ├── customer7.png
+│   ├── merchant/
+│       ├── merchant1.png
+│       ├── merchant2.png
+│       ├── merchant3.png
+│       ├── merchant4.png
+│       ├── merchant5.png
+│   ├── admin/
+│       ├── admin1.png
+│       ├── admin2.png
+│       ├── admin3.png
+│       ├── admin4.png
+│       ├── admin5.png
+│       ├── admin6.png
 │
 ├── documents/
 │   ├── MIS605_A1.pdf
 │   ├── MIS605_A2.pdf
 │   ├── MIS605_A3.pdf
-│
-├── prototype/
-│   ├── customer-ui.png
-│   ├── merchant-ui.png
-│   ├── admin-ui.png
 ```
 
 ---
