@@ -88,22 +88,22 @@ The DGR platform acts as a central system connecting multiple external services:
 ## 📊 System Models & Diagrams
 
 ### Context Diagram
-![Context](diagrams/context-diagram.jpg)
+![Context](assets/context-diagram.jpg)
 
 ### Use Case Diagram
-![Use Case](diagrams/use-case-diagram.png)
+![Use Case](assets/use-case-diagram.jpg)
 
 ### Entity Relationship Diagram (ERD)
-![ERD](diagrams/erd.png)
+![ERD](assets/erd.jpg)
 
 ### Payment Processing (DFD)
-![Payment](diagrams/payment-dfd.png)
+![Payment](assets/payment-dfd.jpg)
 
 ### Invoice Management (DFD)
-![Invoice](diagrams/invoice-dfd.png)
+![Invoice](assets/invoice-dfd.jpg)
 
 ### Discount & Donation Flow (DFD)
-![Donation](diagrams/donation-dfd.png)
+![Donation](assets/donation-dfd.jpg)
 
 ---
 
