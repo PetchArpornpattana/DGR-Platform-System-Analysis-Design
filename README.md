@@ -208,7 +208,8 @@ Designed interface concepts for:
 ---
 
 ## 📂 Repository Structure
-'''
+
+"""
 DGR-System-Analysis-and-Design/
 │
 ├── README.md
@@ -230,7 +231,7 @@ DGR-System-Analysis-and-Design/
 │   ├── customer-ui.png
 │   ├── merchant-ui.png
 │   ├── admin-ui.png
-'''
+"""
 
 ---
 
