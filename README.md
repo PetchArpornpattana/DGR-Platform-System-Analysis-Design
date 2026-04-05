@@ -156,7 +156,18 @@ Designed interface concepts for:
 
 ### Merchant Platform:
 - Invoice upload  
-- Payment tracking  
+- Payment tracking
+
+<p align="center">
+  <img src="assets/merchant/merchant1.png" width="30%" />
+  <img src="assets/merchant/merchant2.png" width="30%" />
+  <img src="assets/merchant/merchant3.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="assets/merchant/merchant4.png" width="30%" />
+  <img src="assets/merchant/merchant5.png" width="30%" />
+</p>
 
 ### Admin Dashboard:
 - User management  
