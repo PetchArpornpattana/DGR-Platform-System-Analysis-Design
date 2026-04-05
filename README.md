@@ -98,21 +98,32 @@ The DGR platform acts as a central system connecting multiple external services:
 
 ### Context Diagram
 Shows how the DGR platform interacts with external systems such as Open Banking, payment gateway, and charity services.
+
 ![Context](assets/context-diagram.jpg)
 
 ### Use Case Diagram
+Illustrates key system functionalities and interactions between actors such as customers, merchants, and administrators.
+
 ![Use Case](assets/use-case-diagram.jpg)
 
 ### Entity Relationship Diagram (ERD)
+Defines the data structure and relationships between core entities such as customers, invoices, discounts, and donations.
+
 ![ERD](assets/erd.jpg)
 
 ### Payment Processing (DFD)
+Represents the flow of payment data through validation, gateway processing, and transaction confirmation.
+
 ![Payment](assets/payment-dfd.jpg)
 
 ### Invoice Management (DFD)
+Shows how invoice data is uploaded, extracted, validated, and matched with transaction records.
+
 ![Invoice](assets/invoice-dfd.jpg)
 
 ### Discount & Donation Flow (DFD)
+Illustrates how discounts are calculated and converted into donation amounts, including confirmation and transfer processes.
+
 ![Donation](assets/donation-dfd.jpg)
 
 ---
