@@ -142,6 +142,18 @@ Designed interface concepts for:
 
 ![Customer1](assets/customer/customer1.png)
 
+<p align="center">
+  <img src="assets/customer/customer2.png" width="30%" />
+  <img src="assets/customer/customer3.png" width="30%" />
+  <img src="assets/customer/customer4.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="assets/customer/customer5.png" width="30%" />
+  <img src="assets/customer/customer6.png" width="30%" />
+  <img src="assets/customer/customer7.png" width="30%" />
+</p>
+
 ### Merchant Platform:
 - Invoice upload  
 - Payment tracking  
