@@ -231,4 +231,3 @@ DGR-System-Analysis-and-Design/
 ## 🚀 Author
 **Wasupon (Petch) Arpornpattana**  
 Business Analyst | Systems & Data Enthusiast  
-Master of Business Information Systems (Distinction)
