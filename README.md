@@ -88,7 +88,7 @@ The DGR platform acts as a central system connecting multiple external services:
 ## 📊 System Models & Diagrams
 
 ### Context Diagram
-![Context](diagrams/context-diagram.png)
+![Context](diagrams/context-diagram.jpg)
 
 ### Use Case Diagram
 ![Use Case](diagrams/use-case-diagram.png)
