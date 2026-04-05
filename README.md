@@ -1,6 +1,6 @@
 # 💡 Doing Good Rewards (DGR) – System Analysis & Design
 
-A complete business and system design for a **transaction-based donation platform** integrating payments, discounts, and charitable contributions into a single digital ecosystem.
+> A complete business and system design for a **transaction-based donation platform** integrating payments, discounts, and charitable contributions into a single digital ecosystem.
 
 ---
 
@@ -27,6 +27,15 @@ DGR addresses these challenges by embedding donations into **transaction flows**
 - Donate seamlessly
 - Track their social impact in real time
 
+---
+
+## 📈 Business Value
+
+- Improves transparency in donation tracking  
+- Encourages user engagement through reward-based incentives  
+- Enables merchants to participate in social impact initiatives  
+- Supports scalable financial transaction workflows
+- 
 ---
 
 ## 🎯 Objectives
@@ -88,6 +97,7 @@ The DGR platform acts as a central system connecting multiple external services:
 ## 📊 System Models & Diagrams
 
 ### Context Diagram
+Shows how the DGR platform interacts with external systems such as Open Banking, payment gateway, and charity services.
 ![Context](assets/context-diagram.jpg)
 
 ### Use Case Diagram
